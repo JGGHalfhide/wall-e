@@ -2,7 +2,7 @@
 
 A simple Python animation of WALL·E pacing across a junkyard scene.
 
-![demo](demo.gif)
+![WALL·E Demo](walle-demo.gif)
 
 ## Requirements
 - Python 3.10+
@@ -15,6 +15,8 @@ git clone https://github.com/JGGHalfhide/wall-e.git
 cd wall-e
 pip install -r requirements.txt
 python walle.py
+
+press CTRL+C to exit the loop 
 
 Credits
 
